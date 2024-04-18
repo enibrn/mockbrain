@@ -2,14 +2,14 @@
 id: 6qktwcremmbk3ds2go6x351
 title: CFC HERMS
 desc: The Counterflow HERMS
-updated: 1691240625374
+updated: 1713477523839
 created: 1691236229370
 tags:
   - heat-exchange
   - comparison
 post-date: '2022-12-02'
 ---
-![Homebrewing with Heat Exchanger](/assets/cfc-herms-mash-step.png)
+![Homebrewing with Heat Exchanger](/assets/images/cfc-herms-mash-step.png)
 
 Homebrewing is a fascinating and rewarding hobby that allows enthusiasts to craft their own beer. As technology and techniques evolve, new methods are introduced to streamline the brewing process and improve its efficiency. One such innovative approach involves utilizing a single heat exchanger not only for cooling the wort after boiling but also for heating it during mashing. In this article, we will explore the benefits of this single heat exchanger system and compare it with traditional RIMS, HERMS, and Kettle RIMS setups.
 

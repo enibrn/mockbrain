@@ -23,6 +23,20 @@ commands:
 workspace:
     vaults:
         -
+            fsPath: dependencies/github.com/enibrn/mockblog-it
+            remote:
+                type: git
+                url: https://github.com/enibrn/mockblog-it
+            selfContained: true
+            name: mockblog-it
+        -
+            fsPath: dependencies/github.com/enibrn/mockblog-en
+            remote:
+                type: git
+                url: https://github.com/enibrn/mockblog-en
+            selfContained: true
+            name: mockblog-en
+        -
             fsPath: .
             selfContained: true
             name: mockbrain
@@ -106,3 +120,9 @@ publishing:
     enableTaskNotes: true
     enablePrettyLinks: true
     searchMode: search
+    duplicateNoteBehavior:
+        action: useVault
+        payload:
+            - mockblog-en
+            - mockbrain
+            - mockblog-it

@@ -2,14 +2,14 @@
 id: wg23mvczwa9nrghkmjf8y8i
 title: My First Bitter
 desc: 'Crafting a Homemade Bitter-Style Beer: From Recipe to Tasting'
-updated: 1691240732550
+updated: 1713477496964
 created: 1691236229371
 tags:
   - bitter
   - british-beer-styles
 post-date: '2023-10-01'
 ---
-![Homemade Bitter-Style Beer](/assets/bitter.png)
+![Homemade Bitter-Style Beer](/assets/images/bitter.png)
 
 Welcome, fellow beer enthusiasts and homebrewers! Today, we embark on an exciting journey through the process of crafting a delightful homemade Bitter-style beer, from the original recipe to the eagerly anticipated moment of tasting.
 

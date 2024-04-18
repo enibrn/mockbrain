@@ -1,6 +1,14 @@
 {
     "folders": [
         {
+            "path": "dependencies/github.com/enibrn/mockblog-it/notes",
+            "name": "mockblog-it"
+        },
+        {
+            "path": "dependencies/github.com/enibrn/mockblog-en/notes",
+            "name": "mockblog-en"
+        },
+        {
             "path": "notes",
             "name": "mockbrain"
         }

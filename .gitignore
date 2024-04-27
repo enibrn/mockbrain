@@ -5,5 +5,4 @@ build
 seeds
 .next
 pods/service-connections
-dependencies/github.com/enibrn/mockblog-en
-dependencies/github.com/enibrn/mockblog-it
+dependencies/github.com/enibrn/mockblog2
